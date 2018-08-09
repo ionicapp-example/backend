@@ -1,1 +1,9 @@
-{}
+{
+  "ionic-test": {
+    "host": "localhost",
+    "port": 27107,
+    "database": "ionic-test",
+    "name": "ionic-test",
+    "connector": "mongodb"
+  }
+}

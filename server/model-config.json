@@ -16,5 +16,9 @@
   "brazilian-states": {
     "dataSource": null,
     "public": true
+  },
+  "states": {
+    "dataSource": "ionic-test",
+    "public": true
   }
 }
