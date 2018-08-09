@@ -1,7 +1,7 @@
 {
   "ionic-test": {
     "host": "localhost",
-    "port": 27107,
+    "port": 27017,
     "database": "ionic-test",
     "name": "ionic-test",
     "connector": "mongodb"
